@@ -1,0 +1,29 @@
+# Unity regenerates these directories.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local IDE settings and generated solution files.
+/.vs/
+/.vscode/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.userprefs
+
+# Local secrets and OS metadata.
+.env
+.env.local
+*.keystore
+*.pfx
+.DS_Store
+Thumbs.db
